@@ -1,6 +1,5 @@
 # FinTrust ARM Deployment — Automated Web Server Infrastructure
 
-**Engagement ref:** FT-AZ-003 | **Role:** Azure Cloud Administrator | **Track:** AZ-104 Project Series #3
 
 > One ARM template. One parameters file. One command. Seven resources. Zero manual steps.
 
