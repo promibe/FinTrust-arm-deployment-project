@@ -277,6 +277,7 @@ Storage account names must be globally unique across all of Azure. `uniqueString
 ## Full Write-Up
 
 📝 Medium article: https://medium.com/@promiseibediogwu1/one-template-one-command-seven-resources-zero-manual-steps-255318c02af6
+
 🎬 YouTube walkthrough: 
 
 ---
